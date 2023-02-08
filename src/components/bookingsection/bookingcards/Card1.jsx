@@ -1,7 +1,7 @@
 import React from "react";
 import Locationicon from "../../../assets/images/png/location.png";
 import Dot from "../../../assets/images/png/dot.png";
-import Dottedline from "../../../assets/images/png/dottedline.png";
+
 const Card1 = () => {
   return (
     <>

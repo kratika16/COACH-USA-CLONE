@@ -1,21 +1,5 @@
 import { Routes, Route } from "react-router";
-// import BusRoutes from "./Pages/landingpage/busRoutes/index";
-// import AirportTransportation from "./Pages/landingpage/airportRoutes/index";
-// import Loginpage from "./Pages/loginpage/Loginpage";
-// import Home from './Pages/BusRoutes/index';
-// import AirportHome from './Pages/airportTransportation/index';
-// import Forgetpassword from "./Pages/loginpage/forget/Forgetpassword";
-// import Myaccount from "./Pages/myaccount/Myaccount";
-// import MyTrips from "./Pages/myaccount/MyTrips";
-// import AlertPage from "./Pages/myaccount/AlertPage";
-// import MyPayment from "./Pages/myaccount/Paymethods/MyPayment";
-// import AlertSettings from "./Pages/myaccount/AlertSettings";
-// import CardPage from './Pages/myaccount/Paymethods/CardPage'
-// import Signuppage from "./Pages/loginpage/signup/Signuppage";
-// import SignupConfirmpage from './Pages/loginpage/signup/SignupConfirmpage';
-// import ProtectedRoute from "./ProtectedRoute/protectedRoute";
-// import { useSelector } from "react-redux";
-// import Section from './Components/alertSettingSection/section'
+
 import BusRoutes from './Pages/landingpage/busRoutes/index';
 import AirportTransportation from './Pages/landingpage/airportRoutes/index';
 import Loginpage from "./Pages/loginpage/Loginpage";

@@ -1,9 +1,9 @@
 import React from "react";
 import Header from "../../../components/Header/index2";
 import Footer from "../../../components/footer/index";
-import AddCard from "./AddCard";
+
 import PaymentTable from "./PaymentTable";
-import { addCard, deleteCard } from "../../../Store/paymentSlice";
+
 import { useSelector } from "react-redux";
 import PaymentPage from './PaymentPage';
 import { Link } from "react-router-dom";

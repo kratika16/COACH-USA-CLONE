@@ -1,10 +1,10 @@
-import React,{useEffect} from "react";
-import { Link, useNavigate } from "react-router-dom";
+import React from "react";
+import { Link} from "react-router-dom";
 import CoachLogo from "../../assets/images/svg/coach-logo.svg";
 import CoachIcon from "../../assets/images/svg/coach-icon.svg";
 import AlertIcon from '../../assets/images/svg/noti.svg';
 import {AiOutlineMenu} from 'react-icons/ai';
-import { useSelector } from "react-redux";
+
 
 import Actiondropdown from "./Actiondropdown";
 

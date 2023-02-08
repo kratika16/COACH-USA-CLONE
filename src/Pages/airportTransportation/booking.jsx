@@ -1,5 +1,4 @@
 import React from "react";
-import BusBooking from "../../components/bookingsection/BusBooking";
 import AirportBooking from '../../components/bookingsection/AirportBooking';
 import Bookingcard from "../../components/bookingsection/bookingcards/Bookingcard";
 const Booking = () => {

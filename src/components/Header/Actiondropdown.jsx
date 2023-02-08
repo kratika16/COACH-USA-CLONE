@@ -1,4 +1,4 @@
-import { Fragment,useEffect} from "react";
+import { Fragment} from "react";
 import { Menu, Transition } from "@headlessui/react";
 import AccountIcon from "../../assets/images/svg/wcc-login.svg";
 import { handleLogout } from "../../Store/loginSlice";

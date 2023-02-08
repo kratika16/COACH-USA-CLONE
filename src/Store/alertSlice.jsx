@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import _, { create } from "lodash";
+import _ from "lodash";
 
 export const alertSlice= createSlice({
     name: "alert",

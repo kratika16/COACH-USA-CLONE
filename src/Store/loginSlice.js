@@ -1,5 +1,5 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
-import { Action } from "@remix-run/router";
+
 import {Buffer} from 'buffer';
 import { isEmpty } from "lodash";
 import { deleteLoginAuth, getLoginAuth, getUser, setLoginAuth, setUsers, updateUser } from "../utils/func";

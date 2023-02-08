@@ -3,7 +3,7 @@ import Search from "../../assets/images/svg/search.svg";
 import DestinationInputBox from "./DestinationInputBox";
 import OriginInputbox from "./OriginInputbox";
 import Ticketicon from "../../assets/images/svg/wcc_ticket_icon.svg";
-import AirplaneWht from '../../assets/images/svg/airplane-white.svg';
+
 const BusBooking = () => {
   return (
     <div className="container border-alto rounded-xl shadow-xl bg-boxblue md:w-88 mx-md:w-[98%] ">

@@ -2,7 +2,7 @@ import React from "react";
 import Search from "../../assets/images/svg/search.svg";
 import DestinationInputBox from "./DestinationInputBox";
 import OriginInputbox from "./OriginInputbox";
-import Ticketicon from "../../assets/images/svg/wcc_ticket_icon.svg";
+
 import AirplaneWht from '../../assets/images/svg/airplane-white.svg';
 const BusBooking = () => {
   return (
